@@ -1,0 +1,22 @@
+.white {
+    background-color: white;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.center {
+    position: absolute;
+    top:30%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
